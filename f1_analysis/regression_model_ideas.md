@@ -46,7 +46,7 @@ This model predicts whether a driver will finish in the top 3.
 **Another Idea: Predict a DNF (Did Not Finish)**
 
 This model predicts whether a driver will fail to finish a race.
-
+ 
 *   **Target Variable (Y):**
     *   Create a new binary column, `is_dnf`. Use `status.csv` to identify which `statusId` values correspond to non-finishing statuses (e.g., accidents, mechanical failures). Set `is_dnf` to **1** for those statuses and **0** for all "Finished" statuses.
 
