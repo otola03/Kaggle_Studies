@@ -15,3 +15,4 @@ This repository contains a collection of my data analysis projects, including:
 
 *   **Email:** [kohwj9786@gmail.com](mailto:kohwj9786@gmail.com)
 *   **LinkedIn:** [linkedin.com/in/won-jun-koh-77a1b42aa](https://linkedin.com/in/won-jun-koh-77a1b42aa)
+*   **Kaggle:** [kaggle/wonjoonkoh](https://www.kaggle.com/wonjoonkoh)
